@@ -155,4 +155,5 @@ python work3/main.py
 ## 7. 结果
 项目效果图如下：
 
+![ep48PAYY_converted](https://github.com/user-attachments/assets/2fc1860e-99f6-4ebd-98d6-02ad2b44e106)
 
