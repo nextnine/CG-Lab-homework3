@@ -1,6 +1,4 @@
-# 实验三：贝塞尔曲线（De Casteljau + Taichi 光栅化）
-
-本项目使用 **Python + Taichi** 实现了交互式曲线绘制系统，核心包括：
+功能包括：
 
 - 基于 **De Casteljau 算法** 的贝塞尔曲线生成。
 - 基于像素缓冲区（Frame Buffer）的曲线光栅化绘制。
